@@ -6,4 +6,4 @@ We develop theoretical foundations to shape the way future generations of robots
 
 ## CRL GitHub Guideline 
 
-- Invite students or external collaborators as "Outside collaborators"
+- Invite students or external collaborators as [Outside collaborators](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators/adding-outside-collaborators-to-repositories-in-your-organization)
